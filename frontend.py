@@ -46,7 +46,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- CONFIGURATION ---
-API_URL = "http://localhost:8000"
+API_URL = "http://127.0.0.1:8000"
 ALLOWED_TYPES = ["jpg", "png", "jpeg", "bmp", "webp", "tiff"]
 
 # --- SIDEBAR DASHBOARD ---
