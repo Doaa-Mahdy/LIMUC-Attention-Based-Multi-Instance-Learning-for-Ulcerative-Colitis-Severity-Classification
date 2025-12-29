@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+
+# Ignore heavy model weights (We upload these to Hugging Face manually)
+*.pth
+*.pt
+
+# Ignore system files
+.DS_Store
