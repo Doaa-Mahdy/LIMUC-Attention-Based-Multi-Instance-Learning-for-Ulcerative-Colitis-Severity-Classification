@@ -7,6 +7,10 @@
 [![Model](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?logo=pytorch)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
+## 🌟 Live Demo
+Try the fully functional system live on Hugging Face Spaces:
+**[👉 Click here to launch LIMUC-AI-System](https://huggingface.co/spaces/amn3m/LIMUC-AI-System)**
+
 ## 📋 Overview
 **LIMUC-AI-System** is a sophisticated deep learning system designed to assist endoscopists in the objective assessment of **Ulcerative Colitis (UC)** using endoscopic imagery. 
 
